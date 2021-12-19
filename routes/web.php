@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EstadoController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -26,4 +27,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 //Authenticated routes
 Route::middleware(['auth'])->group( function () {
     Route::resource('profile', ProfileController::class);
+    Route::resource('estados', EstadoController::class);
 });
