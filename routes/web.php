@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\EstadoController;
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +15,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+//Default routes
+Route::get('/', ['middleware' => 'guest' ,function () {
+    return view('auth.login');
+}])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+//Authenticated routes
+Route::middleware(['auth'])->group( function () {
+    Route::resource('profile', ProfileController::class);
+    Route::resource('estados', EstadoController::class);
 });
