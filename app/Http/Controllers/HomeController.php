@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Estado;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -23,6 +24,6 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        return view('estados.index', ['estados' => Estado::all()]);
     }
 }
