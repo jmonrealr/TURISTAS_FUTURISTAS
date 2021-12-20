@@ -3,9 +3,13 @@
 # Sugerencias de destino para vacaciones
 
 ### Descripción del Proyecto a Entregar (Corta)
-Tecnologías: SQL Database, Machine Learning, App Service (PHP Runtime with Laravel Framework), Bot Services, QnA Maker, Cognitive Services​
 
-Areas: Desarrollador de software, Administrador de base de datos, Logistico de Viajes, Machine Learning
+Cuando uno tiene en mente viajar, a veces ya no se hace porque como tal no tenemos la informacion completa de nuestro destino de viaje, o porque no encontramos la informacion completa. El dia de hoy te tenemos una aplicacion. Al abrir la app Inicias sesion, entrando te hace una serie de preguntas para arrojarte resultados de lugares dependiendo tus gustos, te muestra el estado, su rica gastronomia, actividades a realizar, sus deportes, el coturismo, no pueden faltar los pueblitos mágicos y una breve descripcion de como es.
+#### Tecnologías: 
+SQL Database, Machine Learning, App Service (PHP Runtime with Laravel Framework), Bot Services, QnA Maker, Cognitive Services​
+
+#### Areas: 
+Desarrollador de software, Administrador de base de datos, Logistico de Viajes, Machine Learning
 ### Link al Tiktok
 [Clic Aqui](https://vm.tiktok.com/ZM83DCTNX/)
 ### Diagrama de Azure
@@ -24,7 +28,7 @@ RESULTADO: 99.8951%
 [PDF_TOTAL COST](img/total_cost.pdf)
 
 ### Tiempo sin disponibilidad a un año
-
+52,540.97814255 minutos 
 ### Qué te pareció el evento
 Compartimos que el evento nos pareció desafiante, curioso y una oportunidad para compartir y aprender. Entre nosotros ya que somos de distintas áreas y estados fue divertido complementarnos de igual manera formamos un equipo que tenía una función, pero nos atrevimos a salir de nuestra zona de confort y compartimos conocimientos de todos los niveles y experiencias anteriores para aplicarlas e incorporarlas a nuestro proyecto, el evento resulto aportarnos mucho como equipo, como personas y como profesionales y grandes compañeros.
 
