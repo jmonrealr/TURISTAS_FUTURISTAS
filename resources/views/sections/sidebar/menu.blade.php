@@ -13,10 +13,10 @@
             </a>
           </li>
             <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="{{ route('questions.index') }}" class="nav-link">
               <i class="far fa-question-circle"></i>
               <p>
-                Questionario
+                Comienza tu viaje!!
                 <span class="right badge badge-danger">New</span>
               </p>
             </a>

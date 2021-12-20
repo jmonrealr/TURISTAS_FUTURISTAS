@@ -28,4 +28,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::middleware(['auth'])->group( function () {
     Route::resource('profile', ProfileController::class);
     Route::resource('estados', EstadoController::class);
+    Route::resource('questions', \App\Http\Controllers\QuestionController::class);
 });
