@@ -11,7 +11,13 @@ Areas: Desarrollador de software, Administrador de base de datos, Logistico de V
 ### Diagrama de Azure
 ![Diagrama_azure](img/diagrama_azure.png)
 ### SLA Compuesto
+APP SERVICE: 99.95%
 
+SQL DATABASE: 99.995%
+
+MACHINE LEARNING STUDIO: 99.95%
+
+RESULTADO: 99.8951%
 ### TCO 3 años y Precio Total por mes
 ![Tco](img/tco.png)
 ![TCO](img/tco_2.png)
@@ -20,7 +26,7 @@ Areas: Desarrollador de software, Administrador de base de datos, Logistico de V
 ### Tiempo sin disponibilidad a un año
 
 ### Qué te pareció el evento
-
+Compartimos que el evento nos pareció desafiante, curioso y una oportunidad para compartir y aprender. Entre nosotros ya que somos de distintas áreas y estados fue divertido complementarnos de igual manera formamos un equipo que tenía una función, pero nos atrevimos a salir de nuestra zona de confort y compartimos conocimientos de todos los niveles y experiencias anteriores para aplicarlas e incorporarlas a nuestro proyecto, el evento resulto aportarnos mucho como equipo, como personas y como profesionales y grandes compañeros.
 
 ## Integrantes
 inv4678@innovaccion.mx
