@@ -28,7 +28,7 @@ RESULTADO: 99.8951%
 [PDF_TOTAL COST](img/total_cost.pdf)
 
 ### Tiempo sin disponibilidad a un año
-52,540.97814255 minutos 
+552.258 minutos sin disponibilidad
 ### Qué te pareció el evento
 Compartimos que el evento nos pareció desafiante, curioso y una oportunidad para compartir y aprender. Entre nosotros ya que somos de distintas áreas y estados fue divertido complementarnos de igual manera formamos un equipo que tenía una función, pero nos atrevimos a salir de nuestra zona de confort y compartimos conocimientos de todos los niveles y experiencias anteriores para aplicarlas e incorporarlas a nuestro proyecto, el evento resulto aportarnos mucho como equipo, como personas y como profesionales y grandes compañeros.
 
